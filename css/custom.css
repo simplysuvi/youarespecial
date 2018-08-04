@@ -132,7 +132,7 @@ footer a.social:hover
     {
         font-size: 20px;
     }
-    footer p, footer a
+    footer p, footer a.social
     {
         font-size: 20px!important;
     }
